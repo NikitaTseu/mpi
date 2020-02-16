@@ -1,0 +1,23 @@
+L:
+1 0 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 
+1 -nan(ind) 1 0 0 0 0 0 0 0 
+1 -nan(ind) -nan(ind) 1 0 0 0 0 0 0 
+1 -nan(ind) -nan(ind) -nan(ind) 1 0 0 0 0 0 
+1 -nan(ind) -nan(ind) -nan(ind) -nan(ind) 1 0 0 0 0 
+1 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 1 0 0 0 
+1 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 1 0 0 
+1 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 1 0 
+1 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 1 
+
+U:
+-6.27744e+66 -6.27744e+66 -6.27744e+66 -6.27744e+66 -6.27744e+66 -6.27744e+66 -6.27744e+66 -6.27744e+66 -6.27744e+66 -6.27744e+66 
+0 0 0 0 0 0 0 0 0 0 
+0 0 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 
+0 0 0 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 
+0 0 0 0 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 
+0 0 0 0 0 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 
+0 0 0 0 0 0 -nan(ind) -nan(ind) -nan(ind) -nan(ind) 
+0 0 0 0 0 0 0 -nan(ind) -nan(ind) -nan(ind) 
+0 0 0 0 0 0 0 0 -nan(ind) -nan(ind) 
+0 0 0 0 0 0 0 0 0 -nan(ind) 
